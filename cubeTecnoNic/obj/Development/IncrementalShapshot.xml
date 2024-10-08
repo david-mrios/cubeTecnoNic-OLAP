@@ -60,6 +60,13 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>J+hqgp205qDbYK8HbAtBLd+ZuU4=7/10/2024 23:22:377/10/2024 23:03:55</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
         <TimeStamp>hC/KncGXKyy1VKKQxTf+eb+N4NA=25/9/2024 23:26:2725/9/2024 23:24:18TROvdaTvaoMsUDSdMMv64zm5YtU=25/9/2024 23:24:1825/9/2024 23:24:18</TimeStamp>
         <ID>
@@ -78,5 +85,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2024-09-26T06:01:23.913333Z</LastDeployed>
+  <LastDeployed>2024-10-08T05:22:38.103333Z</LastDeployed>
 </DeploymentSnapshot>
